@@ -27,3 +27,5 @@ As i already mentioned that this bot works as player so there is no command othe
 ### ‣ Showcase
 ![image](https://github.com/rivkxx/coke/assets/81345344/1e2982ac-3da1-44a4-a538-459ae83d9737)
 
+The app currently doesn't work due to being unable to host it.
+
