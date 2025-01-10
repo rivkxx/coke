@@ -29,3 +29,11 @@ As i already mentioned that this bot works as player so there is no command othe
 
 The app currently doesn't work due to being unable to host it.
 
+
+               __
+              / _)
+     _.----._/ /
+    /         /
+ __/ (  |  (  |
+/__.-'|_|--|__|
+
